@@ -1,4 +1,4 @@
-# Chatbot_using_NLP_AICTE_Cycle4
+# Chatbot_using_NLP
 Training for the project on Implementation of Chatbot using NLP
 
 To run streamlit use the command as
